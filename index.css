@@ -1,0 +1,21 @@
+body {
+  background-color: rgb(7, 0, 58);
+  color:beige;
+}
+
+header {
+  color:beige;
+
+  margin: 2rem 1rem;
+  margin-top: 1rem;
+}
+
+input {
+  color: transparent;
+  margin: 0.5rem 1rem;
+}
+
+textarea {
+  margin: 0.5rem 1rem;
+  padding: 0rem 0.5rem;
+}
