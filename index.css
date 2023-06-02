@@ -1,3 +1,7 @@
+html {
+  font-size: 200%
+}
+
 body {
   background-color: rgb(7, 0, 58);
   color:beige;
@@ -6,18 +10,21 @@ body {
 header {
   color:beige;
 
-  margin: 2rem 1rem;
-  margin-top: 1rem;
+  margin: 0.5rem;
+  margin-bottom: 2rem;
 }
 
 input {
   display: block;
   color: transparent;
-  margin: 0.5rem 1rem;
+  font-size: 0.6rem;
+  margin: 0.5rem 0.5rem;
 }
 
 textarea {
   display: block;
-  margin: 0.5rem 1rem;
+  margin: 0.5rem;
   padding: 0rem 0.5rem;
+
+  font-size: 0.6rem;
 }
