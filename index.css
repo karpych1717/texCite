@@ -11,11 +11,13 @@ header {
 }
 
 input {
+  display: block;
   color: transparent;
   margin: 0.5rem 1rem;
 }
 
 textarea {
+  display: block;
   margin: 0.5rem 1rem;
   padding: 0rem 0.5rem;
 }
